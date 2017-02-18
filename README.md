@@ -1,5 +1,5 @@
 # parallax
-a javascript plugin that will generate a parallax effect
+a javascript plugin that will generate the parallax effect
 
 #usage
 Creates a sliding parallax effect.
